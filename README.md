@@ -8,10 +8,10 @@ Este es un sistema desarrollado en Python utilizando **PyQt6** para la creación
 ### Capturas de pantalla
 
 Pantalla Principal:  
-![Pantalla Principal](resources/Principal.png)
+![Pantalla Principal](Resources/Principal.png)
 
 Pantalla de Cocina:  
-![Pantalla Cocina](resources/Cocina.png)
+![Pantalla Cocina](Resources/Cocina.png)
 
 ### Funcionalidades principales:
 
